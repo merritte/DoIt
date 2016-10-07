@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE0569E91DA7F1D2008F58E6 /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0569E81DA7F1D2008F58E6 /* CreateTaskViewController.swift */; };
 		DE05F8FF1DA6F374004BCD43 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE05F8FE1DA6F374004BCD43 /* AppDelegate.swift */; };
 		DE05F9011DA6F374004BCD43 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE05F9001DA6F374004BCD43 /* ViewController.swift */; };
 		DE05F9041DA6F374004BCD43 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE05F9021DA6F374004BCD43 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DE0569E81DA7F1D2008F58E6 /* CreateTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 		DE05F8FB1DA6F374004BCD43 /* DoIt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoIt.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE05F8FE1DA6F374004BCD43 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE05F9001DA6F374004BCD43 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				DE05F90A1DA6F374004BCD43 /* LaunchScreen.storyboard */,
 				DE05F90D1DA6F374004BCD43 /* Info.plist */,
 				DE05F9051DA6F374004BCD43 /* DoIt.xcdatamodeld */,
+				DE0569E81DA7F1D2008F58E6 /* CreateTaskViewController.swift */,
 			);
 			path = DoIt;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				DE05F9071DA6F374004BCD43 /* DoIt.xcdatamodeld in Sources */,
 				DE05F9011DA6F374004BCD43 /* ViewController.swift in Sources */,
 				DE05F8FF1DA6F374004BCD43 /* AppDelegate.swift in Sources */,
+				DE0569E91DA7F1D2008F58E6 /* CreateTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +311,7 @@
 				DE05F9121DA6F374004BCD43 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

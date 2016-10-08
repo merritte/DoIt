@@ -38,7 +38,6 @@ class CreateTaskViewController: UIViewController {
         
         previousVC.tasks.append(task)
         previousVC.toDoTableView.reloadData()
-        
         navigationController!.popViewController(animated: true)
         
 

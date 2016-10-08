@@ -15,6 +15,7 @@
 		DE05F9091DA6F374004BCD43 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE05F9081DA6F374004BCD43 /* Assets.xcassets */; };
 		DE05F90C1DA6F374004BCD43 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE05F90A1DA6F374004BCD43 /* LaunchScreen.storyboard */; };
 		DE05F9141DA6F84C004BCD43 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE05F9131DA6F84C004BCD43 /* Task.swift */; };
+		DE218C0C1DA97F180083DD4D /* CompleteTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE218C0B1DA97F180083DD4D /* CompleteTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		DE05F90B1DA6F374004BCD43 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE05F90D1DA6F374004BCD43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DE05F9131DA6F84C004BCD43 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		DE218C0B1DA97F180083DD4D /* CompleteTaskViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompleteTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				DE05F9001DA6F374004BCD43 /* TasksViewController.swift */,
 				DE05F9131DA6F84C004BCD43 /* Task.swift */,
 				DE0569E81DA7F1D2008F58E6 /* CreateTaskViewController.swift */,
+				DE218C0B1DA97F180083DD4D /* CompleteTaskViewController.swift */,
 				DE05F9021DA6F374004BCD43 /* Main.storyboard */,
 				DE05F9081DA6F374004BCD43 /* Assets.xcassets */,
 				DE05F90A1DA6F374004BCD43 /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 			files = (
 				DE05F9141DA6F84C004BCD43 /* Task.swift in Sources */,
 				DE05F9071DA6F374004BCD43 /* DoIt.xcdatamodeld in Sources */,
+				DE218C0C1DA97F180083DD4D /* CompleteTaskViewController.swift in Sources */,
 				DE05F9011DA6F374004BCD43 /* TasksViewController.swift in Sources */,
 				DE05F8FF1DA6F374004BCD43 /* AppDelegate.swift in Sources */,
 				DE0569E91DA7F1D2008F58E6 /* CreateTaskViewController.swift in Sources */,
